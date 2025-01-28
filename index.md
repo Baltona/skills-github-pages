@@ -1,4 +1,4 @@
 ---
-title: Skibidi filled website
+title: Website
 ---
 
